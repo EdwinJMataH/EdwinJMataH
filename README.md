@@ -31,7 +31,7 @@ Computer systems engineer with experience in web development. Interested in join
 📍 TecNM Campus Acapulco | jun. 2017 – dec. 2022 | Acapulco de Juárez, Gro. México.
 
 ## Experience
-- **Junior Programmer**\
+- **Web Programmer**\
 📍 Apleeks | may. 2023  – now | Acapulco de Juárez, Gro. México.
 
 - **Support Member AMS**\
