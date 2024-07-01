@@ -3,7 +3,7 @@
 Computer systems engineer with experience in web development. Interested in joining a company as a programmer/developer with the aim of improving my programming skills by developing projects that offer digital solutions and improve the user experience.
 
 - 🔭 I’m currently working on [Apleeks](https://www.apleeks.com/) as Web Programmer
-- 🔝 Now I am learning English and Nodejs
+- 🔝 Now I am learning COBOL Mainframe in Codelle
 - ✨ My pronouns are he / him
 - 📫 How to reach me: [Facebook](https://www.facebook.com/EdwinJMataH), [Twitter (X)](https://twitter.com/EdwinJMataH), [LinkedIn](https://www.linkedin.com/in/ejmh/), [ejmh.developer@gmail.com](mailTo:ejmh.developer@gmail.com).
 
